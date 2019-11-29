@@ -1,5 +1,9 @@
 hello
 a.txt
+hello
 ddddd
 
-888
+新增会产生不对劲
+
+
+hello
